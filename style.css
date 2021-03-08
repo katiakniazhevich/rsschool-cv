@@ -1,9 +1,9 @@
 body {
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: center;
   max-width: 100%;
-  width: auto;
+  width: auto; */
   margin: 0px;
 }
 header,
@@ -51,7 +51,7 @@ section {
   transition: 0.5s ease;
 }
 .experience ul {
-  padding-inline-start: 0px;
+  padding: 0px;
 }
 a:hover {
   color: brown;
@@ -98,4 +98,3 @@ div {
 P {
   text-align: center;
 }
-
